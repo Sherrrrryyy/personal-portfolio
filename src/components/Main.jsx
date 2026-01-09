@@ -40,7 +40,7 @@ const Main = () => {
 
                     <section className="container">
                         <div className="flex gap-12 pt-16">
-                            <Link href="https://github.com" target="_blank" rel="noopener noreferrer">
+                            <Link href="https://github.com/Sherrrrryyy" target="_blank" rel="noopener noreferrer">
                                 <button className="icon-button cursor-pointer">
                                     <span className="sr-only">GitHub</span>
                                     <svg className="h-5 w-5" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 24 24">

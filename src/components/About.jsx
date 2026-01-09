@@ -35,15 +35,7 @@ const About = () => {
                                         Build some Frontend projects using JavaScript and React.js.
                                     </p>
                                 </div>
-                                <div>
-                                    <div className="flex justify-between items-center">
-                                        <h4 className="font-medium">Freelancing</h4>
-                                        <span className="px-2 py-1 text-sm border rounded-md">2024 - present</span>
-                                    </div>
-                                    <p className="text-sm text-muted-foreground mt-2">
-                                        Built and maintained multiple client websites and web applications.
-                                    </p>
-                                </div>
+                
                             </div>
                         </div>
                     </div>
